@@ -1,0 +1,10 @@
+{
+  "name": "campus-connect-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix project run dev",
+    "build": "npm --prefix project run build",
+    "preview": "npm --prefix project preview",
+    "lint": "npm --prefix project run lint"
+  }
+}
